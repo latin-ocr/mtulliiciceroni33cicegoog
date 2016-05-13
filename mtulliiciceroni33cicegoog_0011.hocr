@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./mtulliiciceroni33cicegoog_0011.png"; bbox 0 0 3150 5378; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 394 1873 1218 1953">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 394 1873 1218 1953">
+     <span class='ocr_line' id='line_1_1' title="bbox 394 1873 1218 1953; baseline -0.001 -22"><span class='ocrx_word' id='word_1_1' title='bbox 394 1873 720 1953; x_wconf 69' lang='lat' dir='ltr'><strong>27843.-1&gt;Anls.</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 749 1876 1013 1932; x_wconf 69' lang='lat' dir='ltr'>mmmmm</span> <span class='ocrx_word' id='word_1_3' title='bbox 1038 1875 1218 1932; x_wconf 79' lang='lat' dir='ltr'><strong>LAHURE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 621 2007 988 2086">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 621 2007 988 2086">
+     <span class='ocr_line' id='line_1_2' title="bbox 621 2007 988 2086; baseline -0.003 -20"><span class='ocrx_word' id='word_1_4' title='bbox 621 2028 651 2084; x_wconf 90' lang='lat'><strong>9,</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 675 2026 728 2066; x_wconf 80' lang='lat' dir='ltr'><strong>rue</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 750 2008 788 2066; x_wconf 87' lang='lat' dir='ltr'><strong>de</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 809 2007 945 2079; x_wconf 70' lang='lat' dir='ltr'><strong>Flemus,</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 968 2030 988 2086; x_wconf 88' lang='lat'><strong>9</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1580 5378">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1580 5378">
+     <span class='ocr_line' id='line_1_3' title="bbox 0 0 1580 5378; baseline 0 0"><span class='ocrx_word' id='word_1_9' title='bbox 0 0 1580 5378; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
